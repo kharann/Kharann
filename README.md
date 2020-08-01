@@ -6,6 +6,8 @@ Welcome to my GitHub page. My name is Anhkha and I like to make stuff.
 - My favorite theme is Gruvbox
 - I really like Linux
 - I would love to learn more about DevOps and Cloud!
+- I've mostly written React with Typescript and Django (Python).
+- I've recently fallen in love with Rust 
 - ....
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kharann&count_private=true&show_icons=true&theme=gruvbox)
