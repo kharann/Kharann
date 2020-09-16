@@ -8,4 +8,4 @@ Welcome to my GitHub page. My name is Kharann and I like to tinker with stuff.
 - ☁️ I would love to learn more about DevOps and Cloud!
 - ✨ Lately i've been working as a volunteer developer
 - 📚 I love to read, both technical and non-technical ones.
-- ⚙️ I'm currently learning Rust and Cloud
+- ⚙️ I'm currently learning Rust and the magic of Cloud
