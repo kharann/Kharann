@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-Welcome to my GitHub page. My name is Kharann and I like to tinker with stuff.
+Welcome to my GitHub page. I am Kharann and I like to tinker with stuff.
 
 - 🕺 My favorite theme is Gruvbox
 - 🐧 I really like Linux
