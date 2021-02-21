@@ -1,11 +1,12 @@
 ### Howdy 👋
 
-Welcome to my GitHub page. I am Kharann and I like to tinker with stuff.
+Welcome to my GitHub page. My name is Kharann and I like to tinker with stuff.
 
-- 🕺 My favorite theme is Gruvbox
-- 🐧 I really like Linux
-- 💻 I've mostly written React with Typescript, Django (Python) and a moderate amount of Rust.
-- ☁️ I would love to learn more about DevOps, Cloud and Software Architecture (DDD <3)!
-- ✨ I love doing volunteer work.
-- 📚 I love to read, both technical and non-technical ones.
-- ⚙️ I'm currently learning Rust and the magic of Cloud
+- 🎓 I'm currently studying at NTNU, Trondheim in Norway
+- ⚙️ I'm currently learning dotnet and more about architectural design patterns.
+- 📚 I'm currently reading Clean Architecture and Dune
+- 💼 I'm gonna work at @finn-no this summer!
+- 🙌 I'm currently volunteering as a developer at @dotkom
+- 📫 Drop me a kind [email](kharann@protonmail.com) if you want to talk :)
+
+*last updated 2021/22/2*
