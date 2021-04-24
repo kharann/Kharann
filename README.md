@@ -1,5 +1,5 @@
 ### Howdy 👋
 
-[![Kharann's github stats](https://github-readme-stats.vercel.app/api?username=kharann)](https://github.com/anuraghazra/github-readme-stats)
+[![Kharann's github stats](https://github-readme-stats.vercel.app/api?username=kharann&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 *last updated 2021/22/2*
