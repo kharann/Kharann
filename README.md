@@ -1,4 +1,5 @@
 ### Howdy 👋
+![Profile views](https://gpvc.arturio.dev/kharann)
 
 Welcome to my GitHub page. My name is Kharann and I like to tinker with stuff.
 
