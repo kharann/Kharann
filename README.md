@@ -4,6 +4,7 @@
 - 👷 I'm a full-stack developer who really likes Software Architecture.
 - 🐧 I'm a Linux and DevOps enthusiast.
 - 🌱 I'm currently learning more about Go, Microservices, Domain Driven Design, and Clean Architecture.
+- 🔨 I'm currently working on a small personal blog/portfolio and some Go projects on the side.
 - ✨ I'm looking to collaborate and contribute on Go projects.
 - ☁️ Know some cool modern open-source projects? Tell me about it!
 - 📮 Wanna talk? Send me an [email](mailto:hey@akvo.no)
