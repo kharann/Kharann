@@ -2,7 +2,7 @@
 
 - 🎓 I just finished my Master's Degree in Software Engineering at NTNU.
 - 👷 I'm a developer which pretty much likes everything from backend/frontend to Software Architecture and process.
-- 🐧 I'm a Linux and DevOps enthusiast.
+- 💬 Ask me about anything web-related, whatever it's TypeScript, Node backends or UI frameworks.
 - 🌱 I'm currently learning more about Go, Microservices, Domain Driven Design, and Clean Architecture.
 - 🔨 I'm currently working on my dotfiles for my new laptop.
 - 📮 Wanna talk? Send me an [email](mailto:hey@akvo.no)
